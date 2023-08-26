@@ -1,0 +1,8 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/9c/f6/e0/9cf6e0e07b9d513426bab716add3b4d3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position:relative;
+    width: 100%;
+    min-height: 100vh;
+}
